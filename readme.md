@@ -17,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pixelquasar&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="pixelquasar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pixelquasar&show_icons=true&locale=en" alt="pixelquasar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pixelquasar&show_icons=true&locale=en&theme=synthwave" alt="pixelquasar" /></p>
